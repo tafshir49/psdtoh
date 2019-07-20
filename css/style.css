@@ -1,0 +1,154 @@
+*{
+	margin:0px;
+	padding: 0px;
+}
+body{
+font-family: 'Open Sans', sans-serif;
+}
+.header{
+	background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(../img/banner.jpg);
+	height: 120vh;
+	background-repeat: no-repeat;
+}
+.logo-img{
+	       padding: 70px 72px;
+}
+.logo-img img{
+	height: 40px;
+	width: 350px;
+}
+.menu-area{
+    padding: 70px 80px;
+
+}
+.menu-area ul{
+
+}
+.menu-area li{
+	list-style: none;
+	display: inline;
+
+}
+.menu-area li a{
+	    font-size: 25px;
+    padding: 15px;
+    color:#ffff;
+    text-decoration: none;
+
+}
+.cs-no{
+	    background-color: #3435344a;
+	    padding: 0px 13px;
+}
+.c-us{
+	padding: 100px;
+}
+.cs-no h2{
+	color:#ffff;
+	text-align: center;
+}
+.cs-p span{
+	border-bottom: 2px solid #edf2f54d;
+    display: block;
+    margin: 37px 4px;
+    width: 10%;
+    font-size: 12px;
+}
+.cs-p p{
+	color:#ffff;
+	font-size: 12px;
+}
+.button-h{
+    border: 1px solid white;
+    text-align: center;
+    font-size: 15px;
+    text-transform: uppercase;
+    cursor: pointer;
+    background-color: transparent;
+    color: #ffff;
+    padding: 10px 25px;
+}
+
+
+
+.wc-area{
+	background-color:#f6f6f6;
+	height: 350px;
+}
+.wc-text{
+	
+	padding: 75px;
+}
+.wc-text p{
+	font-size: 12px;
+}
+.wc-img{
+	position: relative;
+
+}
+.wc-img-one{
+    position: absolute;
+    top: 8%;
+    right: 6%;
+}
+.wc-img-two{
+	    left: 20%;
+    position: absolute;
+    top: 21%;
+
+}
+.wc-img-one img{
+height:400px ;
+width:700px;
+}
+.wc-img-two img{
+	
+height:120px;
+width:350px;
+}
+
+
+.an-area{
+	background-color: #28282e;
+	    height: 450px;
+}
+.an-text{
+	padding: 75px;
+}
+.an-text h3{
+	color:#ffff;
+}
+.an-text p{
+	color:#ffff;
+	font-size: 12px
+}
+.an-img{
+	position: relative;
+}
+.an-img-one img{
+	width:500px;
+	height: 100px;
+}
+.an-img-one{
+	    position: absolute;
+       top: 33%;
+    right: 16%;
+}
+.an-text span{
+	border-bottom: 2px solid #edf2f54d;
+    display: block;
+    margin: 37px 4px;
+    width: 10%;
+
+}
+.an-b{
+	margin-top: 80px;
+}
+.f-area{
+	background-color: #ef4035;
+	padding: 18px;
+}
+.f-text p{
+	color:#ffff;
+	text-align: center;
+}
